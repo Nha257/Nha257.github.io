@@ -6,4 +6,4 @@ I'm Noah H. Ali. I am currently a junior at Lehigh University in the College of 
 
 [Linked-in](https://www.linkedIn.com/in/noah-ali-661b5729b/) (This has all my projects and professional stuff on it)
 
-![ClassCanva]([[https://github.com/Nha257/Nha257.github.io/blob/main/IMG_8637.png?raw=true](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true)](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true))
+![ClassCanva]([[[https://github.com/Nha257/Nha257.github.io/blob/main/IMG_8637.png?raw=true](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true)](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true)](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true))
