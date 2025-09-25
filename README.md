@@ -10,4 +10,5 @@ This is an infographic I made regarding Lehigh Freshmen enrollments by college f
 
 ![ClassCanva](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true)
 ![ClassCanva2](https://github.com/Nha257/Nha257.github.io/blob/main/2.png?raw=true)
+![ClassCanva3](https://github.com/Nha257/Nha257.github.io/blob/main/3.png?raw=true)
 
