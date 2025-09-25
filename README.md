@@ -6,4 +6,6 @@ I'm Noah H. Ali. I am currently a junior at Lehigh University in the College of 
 
 [Linked-in](https://www.linkedIn.com/in/noah-ali-661b5729b/) (This has all my projects and professional stuff on it)
 
+This is an infographic I made regarding Lehigh Freshmen enrollments by college from 2015 to 2024
+
 ![ClassCanva](https://github.com/Nha257/Nha257.github.io/blob/main/1.png?raw=true)
