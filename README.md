@@ -14,3 +14,4 @@ This is an infographic I made regarding Lehigh Freshmen enrollments by college f
 
 This is another infographic I did regarding the Lehigh-Lafayette Rivalry:
 
+![Rivalry](https://github.com/Nha257/Nha257.github.io/blob/main/Screenshot%202025-09-26%20155020.png?raw=true)
