@@ -8,7 +8,7 @@ I'm Noah H. Ali. I am currently a junior at Lehigh University in the College of 
 
 This is an infographic I made regarding Lehigh Freshmen enrollments by college from 2015 to 2024:
 
-![ClassCanva](<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/000fb34f-dc53-426a-9191-f99d30fc53e5" />
+![ClassCanva](<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/a8864cda-e551-4ac9-9bc6-42b4cd3370c0" />
 )
 ![ClassCanva2](https://github.com/Nha257/Nha257.github.io/blob/main/2.png?raw=true)
 ![ClassCanva3](https://github.com/Nha257/Nha257.github.io/blob/main/3.png?raw=true)
