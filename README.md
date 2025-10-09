@@ -10,7 +10,7 @@ This is an infographic I made regarding Lehigh Freshmen enrollments by college f
 
 ([<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/a8864cda-e551-4ac9-9bc6-42b4cd3370c0" />
 ])
-![ClassCanva2[<img width="400" height="600" alt="image" src=(https://github.com/Nha257/Nha257.github.io/blob/main/2.png?raw=true])
+[<img width="400" height="600" alt="image" src=(https://github.com/Nha257/Nha257.github.io/blob/main/2.png?raw=true])
 ![ClassCanva3](https://github.com/Nha257/Nha257.github.io/blob/main/3.png?raw=true)
 
 This is another infographic I did regarding the Lehigh-Lafayette Rivalry:
