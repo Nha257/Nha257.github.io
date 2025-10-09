@@ -21,4 +21,4 @@ This is another infographic I did regarding the Lehigh-Lafayette Rivalry:
 
 This is an example timeline I did of the Lelaf game:
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT95XCvwxWkfT2m21AqM64u1ukg-esmFbY9Gcnqr97zjJidPWpDzeB-czjVjqMrZ5qg1MK6WsxS8CgM&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT95XCvwxWkfT2m21AqM64u1ukg-esmFbY9Gcnqr97zjJidPWpDzeB-czjVjqMrZ5qg1MK6WsxS8CgM&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
