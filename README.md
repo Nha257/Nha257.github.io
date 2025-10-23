@@ -38,3 +38,6 @@ Live outcomes include things such as adoptions, returning animals to owners, ret
 
 This is a map I made in class of the world's top 20 bicycling cities:
 <iframe src="https://www.google.com/maps/d/embed?mid=1iNUe1r5I65VPd53NwGSSEL3oV5Ym30A&ehbc=2E312F" width="640" height="480"></iframe>
+
+I did a map of meteor crashes from 2024. I picked this because I think it tells a story that translates very well to a visual by showing the locations of the meteor crash sites, letting people click on them and learn more. I got a list of meteors from this [website](https://galactic-stone.com/pages/falls) and the coordinates for the meteors to map out the locations from this [one](https://www.lpi.usra.edu/meteor/metbull.cfm?code=84823&utm_source).
+<iframe src="https://www.google.com/maps/d/embed?mid=17G7Ch82N9zpgUCuP5iLjOl97kYOoMrw&ehbc=2E312F" width="640" height="480"></iframe>
