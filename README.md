@@ -35,7 +35,7 @@ Here is a practice pie chart I did regarding enrollment for each Lehigh College 
 This is a line chart I made of enrollments in each Lehigh College from 2015 to 2024:
 <iframe title="Lehigh Enrollment Data by College 2015-2024" aria-label="Line chart" id="datawrapper-chart-tFlWs" src="https://datawrapper.dwcdn.net/tFlWs/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="396" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-**Outcomes of Animal U.S> Animal Shelters 2024:**
+**Outcomes of U.S. Animal Shelters 2024:**
 
 This is a chart I made explaining the outcomes of animals in U.S. shelters of the year 2024:
 <iframe title="Results of Shelter Animals Outcomes in 2024" aria-label="Column Chart" id="datawrapper-chart-QsqTg" src="https://datawrapper.dwcdn.net/QsqTg/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
