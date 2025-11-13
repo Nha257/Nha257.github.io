@@ -13,7 +13,7 @@ This is an infographic I made regarding Lehigh Freshmen enrollments by college f
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/3.png?raw=true" />
 
 ## **Le-Laf Rivalry Infographic:**
-This is another infographic I did regarding the Lehigh-Lafayette Rivalry
+This is another infographic I did regarding the Lehigh-Lafayette Rivalry. I know there's a lot of data surrounding the game, and it's a huge part of the culture of Lehigh, so I thought it would be interesting to make an infographic on it. Some notable data I learned was that rivalry started in 1884. Lafayette has won 79 games, Lehigh 72, and there has been 5 draws. I also included some other Lehigh traditions on the graphic such as the Turkey Trot, Bed Racing, and Banner Making which are a big part of rivalry week. I got the data from the [Lafayette Athletics Website.](https://goleopards.com/sports/football/opponent-history/lehigh-university/143#:~:text=Wins,18.27)
 
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/Screenshot%202025-09-26%20155935.png?raw=true" />
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/Screenshot%202025-09-26%20155040.png?raw=true" />
