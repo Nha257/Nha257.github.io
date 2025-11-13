@@ -12,7 +12,7 @@ This is an infographic I made regarding Lehigh Freshmen enrollments by college f
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/2.png?raw=true" /> 
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/3.png?raw=true" />
 
-#**Le-Laf Rivalry Infographic:**
+## **Le-Laf Rivalry Infographic:**
 This is another infographic I did regarding the Lehigh-Lafayette Rivalry
 
 <img width="550" height="550" alt="image" src= "https://github.com/Nha257/Nha257.github.io/blob/main/Screenshot%202025-09-26%20155935.png?raw=true" />
@@ -23,7 +23,7 @@ This is an example timeline I did of the Lelaf game:
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT95XCvwxWkfT2m21AqM64u1ukg-esmFbY9Gcnqr97zjJidPWpDzeB-czjVjqMrZ5qg1MK6WsxS8CgM&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-#**History of Mascots at Lehigh Timeline:**
+## **History of Mascots at Lehigh Timeline:**
 
 I did another timeline as well on the history of mascots at Lehigh. Some sources I used were [one about dogs at Lehigh](https://alumni.lehigh.edu/news-blog/dogs-lehigh#:~:text=Dogs%20in%20History,leaving%20her%20fraternity%20brothers%20bereft.), a 2013 Lehigh Sports article about [the Mountain Hawk](https://lehighsports.com/sports/2013/6/4/GEN_0604135643), a article about Lehigh [uniforms throughout history](https://lehighsports.com/news/2014/6/25/LL150_0625143915), and two _Brown and White_ articles about Clutch's history, one from [2021](https://thebrownandwhite.com/2021/11/19/from-engineers-to-mountain-hawks/) and the other from [2022.](https://thebrownandwhite.com/2022/11/18/the-clutch-experience-history-and-impact-of-lehighs-mascot/#:~:text=By%20William%20Barnett%20November%2018,the%20students%20decided%20on%20Clutch.)
 
@@ -35,7 +35,7 @@ Here is a practice pie chart I did regarding enrollment for each Lehigh College 
 This is a line chart I made of enrollments in each Lehigh College from 2015 to 2024:
 <iframe title="Lehigh Enrollment Data by College 2015-2024" aria-label="Line chart" id="datawrapper-chart-tFlWs" src="https://datawrapper.dwcdn.net/tFlWs/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="396" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-#**Outcomes of U.S. Animal Shelters 2024:**
+## **Outcomes of U.S. Animal Shelters 2024:**
 
 This is a chart I made explaining the outcomes of animals in U.S. shelters of the year 2024:
 <iframe title="Results of Shelter Animals Outcomes in 2024" aria-label="Column Chart" id="datawrapper-chart-QsqTg" src="https://datawrapper.dwcdn.net/QsqTg/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
@@ -44,7 +44,7 @@ Live outcomes include things such as adoptions, returning animals to owners, ret
 This is a map I made in class of the world's top 20 bicycling cities:
 <iframe src="https://www.google.com/maps/d/embed?mid=1iNUe1r5I65VPd53NwGSSEL3oV5Ym30A&ehbc=2E312F" width="640" height="480"></iframe>
 
-#**Map of 2024 Meteor Crash Site Locations:**
+## **Map of 2024 Meteor Crash Site Locations:**
 
 I did a map of meteor crashes from 2024. I picked this because I think it tells a story that translates very well to a visual by showing the locations of the meteor crash sites, letting people click on them and learn more. I got a list of meteors from this [website](https://galactic-stone.com/pages/falls) and the coordinates for the meteors to map out the locations from this [one](https://www.lpi.usra.edu/meteor/metbull.cfm?code=84823&utm_source).
 <iframe src="https://www.google.com/maps/d/embed?mid=17G7Ch82N9zpgUCuP5iLjOl97kYOoMrw&ehbc=2E312F" width="640" height="480"></iframe>
@@ -57,7 +57,7 @@ This is a map I did based on IPEDS 2013 higher education data:
 
 
 
-#**U.S. 2024 Election Interactive Visual**
+## **U.S. 2024 Election Interactive Visual**
 
 This is an interactive map and chart I made based on data from the 2024 election. I chose this topic because I thought there was a lot of data for it out there, and it would be a good subject to visualize. Results from the map showed bigger dots on states that had more electoral votes, and the colors correlated with who won the state. The map shows that Harris won a couple of states with the most electoral votes like California, but Trump won more states overall which is why he won the election. The demographic table shows voters divided based on various categories such as gender, race, and education, and which candidate they leaned toward. Men leaned more to voting for Trump, especially men without degrees. People with degrees leaned more toward Harris, along with women. Majority of black population and minority groups voted for Harris, while majority of white population voted for Trump. Data was gathered from from a [Washington Post article](https://www.washingtonpost.com/elections/interactive/2024/exit-polls-2024-election/?) and official data from the [state election offices](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf).
 
